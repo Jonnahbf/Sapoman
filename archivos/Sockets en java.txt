@@ -1,0 +1,15 @@
+Sockets: Diseño de app en la red
+
+Existen 2 protocolos: TCP y UDP
+
+Servicio Orientado a Conexion tiene 3 etapas:
+1) Inicio/Establecimiento
+2) Intercambio de informacion
+3) Liberacion de la conexion
+
+Esto ofrece garantia respecto a la entrega de la informacion
+
+Servicio no Orientado a la conexion: No ofrece garantia respecto a la entrega de informacion
+
+Socket: Vinculacion de valores, que son la direccion ip, el puerto origen (·entero de 16 bits entre 0-35635), la direccion ip destino, el puerto destino(Lo establece el SO, es un valor estandar), 
+el protocolo de nivel de transporte y los datos

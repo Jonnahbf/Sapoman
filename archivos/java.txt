@@ -1,0 +1,7 @@
+Etapas: 
+Diseño de la interfaz = Clase vacia donde solo se especifican los metodos a implementar
+Implementar la interfaz = Programar el codigo que haga funcionar la interfaz
+Codigo cliente
+Codigo Servidor
+
+
